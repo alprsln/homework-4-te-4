@@ -51,3 +51,5 @@ Basit bir e-ticaret apisi geliştirin.
 - unit testleri yazın.
 - sipariş oluşturma aşaması için integration test yazın
 - CQRS ve meditaor pattern kullanın
+
+such test
